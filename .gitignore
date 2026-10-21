@@ -1,0 +1,3 @@
+# Unprotected local build: never publish this
+dist/
+.DS_Store
